@@ -1,20 +1,357 @@
-vless://0ea7702d-24cb-4598-a60b-2640479e8465@84.201.175.18:443?encryption=none&type=ws&security=tls&sni=cdn.burncommunity.ru&host=cdn.burncommunity.ru&path=&fp=chrome&alpn=http/1.1#🇳🇱⚡ нидᴇᴩᴧᴀнды | ᴡʜɪᴛᴇʟɪsᴛ
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇩🇪⚡ᴦᴇᴩʍᴀния | ᴡʜɪᴛᴇʟɪsᴛ #1
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇩🇪⚡ᴦᴇᴩʍᴀния | ᴡʜɪᴛᴇʟɪsᴛ #2
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇩🇪⚡ᴦᴇᴩʍᴀния | ᴡʜɪᴛᴇʟɪsᴛ #3
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇩🇪⚡ᴦᴇᴩʍᴀния | ᴡʜɪᴛᴇʟɪsᴛ #4
-vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇵🇱⚡ ᴨоᴧьɯᴀ | ᴡʜɪᴛᴇʟɪsᴛ #1
-vless://4e532206-af41-4003-9a93-a8f78fd779ae@sync-provider.ignorelist.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=itfFe5EsAZUYgiuWlhEEagGvT6s8ErWiI4PrF25YqTg&sni=sync-provider.ignorelist.com&sid=0c72ad8ba18d63ad&fp=random&type=tcp#🇵🇱⚡ ᴨоᴧьɯᴀ | ᴡʜɪᴛᴇʟɪsᴛ #2
-vless://4e532206-af41-4003-9a93-a8f78fd779ae@db.diamondbsd.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=yx2Uk6XAY47b3_hfpdR6FUI4ax5xASeUGkh5NFkg3RU&sni=db.diamondbsd.com&sid=04b5a6f1e2d3c978&fp=chrome&type=tcp#🇵🇱⚡ ᴨоᴧьɯᴀ | ᴡʜɪᴛᴇʟɪsᴛ #3
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision#🇷🇺⚡ ᴩоᴄᴄия | ᴡʜɪᴛᴇʟɪsᴛ #1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇷🇺⚡ ᴩоᴄᴄия | ᴡʜɪᴛᴇʟɪsᴛ #2
-vless://4e532206-af41-4003-9a93-a8f78fd779ae@api.extratechsolutions.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&pbk=XV8DyVCja1LwXdGJGLLjwhztOVnkUvgLWxemT_j2hSk&sni=api.extratechsolutions.com&sid=70811fc1b50e9e05&fp=chrome&type=tcp#🇺🇸⚡ ᴀнᴦᴧия | ᴡʜɪᴛᴇʟɪsᴛ
-vless://3043e4df-85e5-4bd1-bd8e-a276e224efbf@46.243.235.238:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=bw02rbNrE_ILGbvYSWdKhg5My4dIznNQ27iiPhWodU4#🇷🇺🗝️ БЕЛЫЕ СПИСКИ / LTE #1
-vless://3043e4df-85e5-4bd1-bd8e-a276e224efbf@185.91.53.76:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=5PFOhFEwa9Yi7PUoZHnPTYtD0mw-OX3a4bCl0-KYMAs#🇷🇺🗝️ БЕЛЫЕ СПИСКИ / LTE #2
-vless://3043e4df-85e5-4bd1-bd8e-a276e224efbf@91.222.239.98:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ya.ru&fp=chrome&pbk=tKx0d9XoOTN6wE7m_nWQGzUagQx-qp2vZPcQdl6fAms#🇷🇺🗝️ БЕЛЫЕ СПИСКИ / LTE #3
-vless://df79a6af-831d-42d1-a12a-13ddb3a192f4@150.241.68.121:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE#🇳🇱 Нидерланды | VPN 
-vless://df79a6af-831d-42d1-a12a-13ddb3a192f4@81.90.17.208:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE#🇫🇷 Франция | VPN
-vless://df79a6af-831d-42d1-a12a-13ddb3a192f4@81.90.21.63:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE#🇮🇹 Италия | VPN
-vless://df79a6af-831d-42d1-a12a-13ddb3a192f4@188.92.78.183:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE#🇬🇧 Великобритания | VPN
-vless://df79a6af-831d-42d1-a12a-13ddb3a192f4@91.132.134.139:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE#🇩🇪 Германия | VPN
+mixed-port: 7890
+socks-port: 7891
+allow-lan: true
+mode: global
+log-level: info
+external-controller: 127.0.0.1:9090
 
+dns:
+  enable: true
+  use-hosts: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+
+proxies:
+  # === 🌍 WiseVPN Free (@wiserisegrief) ===
+  - name: "🇱🇻 tg: @wiserisegrief"
+    type: vless
+    server: 188.92.78.183
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇵🇱 tg: @wiserisegrief"
+    type: vless
+    server: 2.26.255.177
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇳🇱 tg: @wiserisegrief"
+    type: vless
+    server: 2.26.254.211
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇸🇪 tg: @wiserisegrief"
+    type: vless
+    server: 80.66.78.195
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇦🇱 tg: @wiserisegrief | YT без рекламы"
+    type: vless
+    server: 45.89.60.106
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇫🇮 tg: @wiserisegrief"
+    type: vless
+    server: 188.225.77.193
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: 5wA5ylTjNIaHsYJywLaFASLcNtuWvJU1Rjyh0sTMWUM
+    client-fingerprint: chrome
+
+  - name: "🇨🇿 tg: @wiserisegrief"
+    type: vless
+    server: 103.214.69.179
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: lbHd33C0ODTwApuoKw-DHs840_0bRzDZ70IgOX_V0Us
+    client-fingerprint: chrome
+
+  - name: "🇪🇪 tg: @wiserisegrief"
+    type: vless
+    server: 93.123.39.127
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇫🇷 tg: @wiserisegrief"
+    type: vless
+    server: 5.101.81.157
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇮🇹 tg: @wiserisegrief"
+    type: vless
+    server: 130.49.214.7
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇬🇧 tg: @wiserisegrief"
+    type: vless
+    server: 5.101.83.6
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇪🇸 tg: @wiserisegrief"
+    type: vless
+    server: 146.185.239.131
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇩🇪 tg: @wiserisegrief"
+    type: vless
+    server: 87.120.108.174
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇷🇸 tg: @wiserisegrief"
+    type: vless
+    server: 5.180.54.24
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇭🇰 tg: @wiserisegrief"
+    type: vless
+    server: 85.11.161.74
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇨🇦 tg: @wiserisegrief"
+    type: vless
+    server: 91.194.11.150
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇺🇸 tg: @wiserisegrief"
+    type: vless
+    server: 23.94.252.144
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: www.microsoft.com
+    reality-opts:
+      public-key: ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE
+    client-fingerprint: chrome
+
+  - name: "🇹🇷 tg: @wiserisegrief"
+    type: vless
+    server: 2.27.13.242
+    port: 443
+    uuid: df79a6af-831d-42d1-a12a-13ddb3a192f4
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: PmJ4Mn7fjYWLQdoXt1Bh6YqIk-7rwnz-dp33AgrIOW4
+    client-fingerprint: chrome
+
+  # === 🏳️ Обход глушилок / LTE ===
+  - name: "🏳️ Обход глушилок / LTE #3"
+    type: vless
+    server: 46.243.235.238
+    port: 443
+    uuid: 3043e4df-85e5-4bd1-bd8e-a276e224efbf
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: bw02rbNrE_ILGbvYSWdKhg5My4dIznNQ27ijPhWodU4
+    client-fingerprint: chrome
+
+  - name: "🏳️ Обход глушилок / LTE #2"
+    type: vless
+    server: 46.243.235.238
+    port: 443
+    uuid: 3043e4df-85e5-4bd1-bd8e-a276e224efbf
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: bw02rbNrE_ILGbvYSWdKhg5My4dIznNQ27ijPhWodU4
+    client-fingerprint: chrome
+
+  - name: "🏳️ Обход глушилок / LTE #3-2"
+    type: vless
+    server: 185.247.185.132
+    port: 443
+    uuid: 3043e4df-85e5-4bd1-bd8e-a276e224efbf
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: tKx0d9XoOTN6wE7m_nWQGzUagQx-qp2vZPcQdl6fAms
+    client-fingerprint: chrome
+
+  - name: "🏳️ Обход глушилок / LTE #4"
+    type: vless
+    server: 185.247.185.132
+    port: 443
+    uuid: 3043e4df-85e5-4bd1-bd8e-a276e224efbf
+    network: tcp
+    udp: true
+    flow: xtls-rprx-vision
+    tls: true
+    servername: ya.ru
+    reality-opts:
+      public-key: tKx0d9XoOTN6wE7m_nWQGzUagQx-qp2vZPcQdl6fAms
+    client-fingerprint: chrome
+
+proxy-groups:
+  - name: "🚀 Выбор прокси"
+    type: select
+    proxies:
+      - "🔁 Авто-выбор"
+      - "🇱🇻 tg: @wiserisegrief"
+      - "🇩🇪 tg: @wiserisegrief"
+      - "🇫🇮 tg: @wiserisegrief"
+      - "🇺🇸 tg: @wiserisegrief"
+      - "🏳️ Обход глушилок / LTE #3"
+
+  - name: "🔁 Авто-выбор"
+    type: url-test
+    url: "https://www.google.com/generate_204"
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "🇱🇻 tg: @wiserisegrief"
+      - "🇩🇪 tg: @wiserisegrief"
+      - "🇫🇮 tg: @wiserisegrief"
+      - "🇺🇸 tg: @wiserisegrief"
+      - "🏳️ Обход глушилок / LTE #3"
+
+rules:
+  - "GEOIP,LAN,DIRECT"
+  - "GEOIP,CN,DIRECT"
+  - "MATCH,🚀 Выбор прокси"
